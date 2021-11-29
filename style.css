@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.aziz{
+    width: 700px ;
+    height: 1600px;
+    background: #8EA69B;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    margin-left: 50%;
+    padding: 100px;
+}
+.tel{
+    margin-left: 80px;
+    
+}
+.sak{
+    display: flex;
+    margin-left: 80px;
+}
+.ikon{
+    display: flex;
+    
+}
+.about{
+    border-top: 2px solid black;
+    width: 50%;
+    margin: 20px;
+    
+}
+.ikki{
+    display: flex;
+}
+.teks-1{
+    margin-left: 70px;
+}
+.skil{
+    border-top: 2px solid black;
+    width: 30%;
+    margin: 20px;       
+}
+.ikki-1{
+    display: flex;
+    margin: 100px;
+}
+.teks-2{
+    margin-left: 70px;
+
+}
+.uch{
+    display: flex;
+}
+.chiziq{
+    border-top: 2px solid black;
+    width: 100px;
+    margin: 87px;  
+    margin-left: -5px;  
+}
+.turtta{
+    margin-left: 70px;
+}
+.turt-1{
+    margin-left: 30px;
+    padding: 40px;
+}
+.turt-2{
+    margin-left: 30px;
+    padding: 40px;
+}
+.pus{
+    border-top: 2px solid black;
+    width: 250px;
+    margin: 17px;
+    margin-left: 3px;
+}
+.uch-1{
+    display: flex;
+}
+.turt-3{
+    margin-left: 30px;
+    padding: 40px;
+}
+.bus{
+    border-top: 2px solid black;
+    width: 100px;
+    margin: 20px;
+}
+.uch-2{
+    display: flex;
+}
+.teks-3{
+    margin-left: 70px;
+}
+.cup{
+    border-top: 2px solid black;
+    width: 250px;
+    margin: 20px;
+}
+.uch-4{
+    display: flex;
+    padding: 80px;
+}
+.teks-5{
+    margin-left: 70px;
+}
+.fouter{
+    text-align: center;
+    padding: 100px;
+}
